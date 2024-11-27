@@ -33,6 +33,16 @@ Repo pre trening jazyka Markdown
 
 ### Nadpis H3 - Nadpis tretej urovne - podpodnadpis
 
- 
+ Heading level 1
+===============
+
+Heading level 2
+---------------
+
+Dnes je pekný deň  
+
+Aj zajtra bude pekný deň
+
+
 
 ### Nadpis H3 - Nadpis tretej urovne - podpodnadpisu

@@ -43,6 +43,20 @@ Heading level 2
 
 Aj zajtra bude pekný deň
 
+> toto je bloq..
+> toto je dalsi
 
+
+Nákupný zoznam:
+- prvá položka
+- druhá položka
+- tretia položka
+
+# číslovaný
+
+Nákupný zoznam:
+1. prvá položka
+1. druhá položka
+1. tretia položka
 
 ### Nadpis H3 - Nadpis tretej urovne - podpodnadpisu

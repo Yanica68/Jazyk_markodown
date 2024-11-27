@@ -39,7 +39,7 @@ Repo pre trening jazyka Markdown
 Heading level 2
 ---------------
 
-Dnes je pekný deň  
+**Dnes** je _pekný_ deň  
 
 Aj zajtra bude pekný deň
 
